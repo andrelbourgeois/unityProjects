@@ -1,1 +1,1 @@
-Temperature and Humidty Sensor Data Visualization with Augmented Reality
+Sensor Data Visualization with Augmented Reality - Temperature and Humidity
